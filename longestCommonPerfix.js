@@ -1,6 +1,6 @@
 /**
  *
- * @param {[]} a
+ * @param {[]} arrString
  */
 function longestCommonPerfix(arrString) {
   let size = arrString.length;
